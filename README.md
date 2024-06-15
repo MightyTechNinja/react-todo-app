@@ -48,5 +48,3 @@ $ git checkout <step-number>    # eg: git checkout step-1
 * [step-14](https://github.com/kabirbaidhya/react-todo-app/commits/step-14) - Refactor and separate UI & stateful components.
 * [step-15](https://github.com/kabirbaidhya/react-todo-app/commits/step-15) - Finalization of TodoApp.
 
-
-
